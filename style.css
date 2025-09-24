@@ -1,0 +1,17 @@
+body {
+    padding-bottom: 20px;
+  }
+  
+  .navbar {
+    margin-bottom: 20px;
+  }
+.padde1{
+    padding: 45px;
+    background-color: black;
+    box-shadow: 0px 5px 4px rgb(110, 109, 109);
+    position: static;
+} 
+
+.side1{
+    top: 0;
+}

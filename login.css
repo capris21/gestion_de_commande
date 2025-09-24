@@ -1,0 +1,62 @@
+*{
+    padding: 0rem;
+    margin: 0rem;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(8, 109, 240);
+    min-width: 100vh;        
+    /* min-height: 100vh; */
+    /* justify-items: center;
+    display: flex;
+    align-items: center;
+    height: 100vh; */ 
+}
+a{
+  text-decoration: none;
+}
+
+img{
+    width: 200px;
+    height: 100px;
+}
+/* input,button{
+    margin: 1rem;
+    border-radius: 1rem;
+    padding: 0.7rem;
+    width: 18rem;
+    background-color: rgb(196, 223, 248);
+}
+form{
+    width: 20rem;
+    height: 30rem;
+    border: 2px double black;
+    background-color: rgb(231, 232, 240);
+    border-radius: 1rem;
+    margin: 35rem;
+    box-shadow: 0.5rem 0.5rem 0.5rem 0.5rem  rgb(89, 89, 138) ;
+
+}
+span{
+ position: relative;
+ left: 4rem;
+
+}
+img{
+    width: 14rem;
+    height: 6rem;
+    /* position: relative;
+    left: 2rem; */
+    /* margin: 2rem;
+}
+button{
+   width: 10rem;
+   position: relative;
+   left: 2rem;
+    background-color: rgb(198, 144, 248);
+}
+.password_oublie{
+ position: relative;
+ left: 10rem;
+
+} */ 
