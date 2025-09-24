@@ -12,9 +12,11 @@ if (session_status() === PHP_SESSION_NONE) {
         <div class="sidebar-header text-center py-4">
             <a href="../index.php" class="d-flex align-items-center justify-content-center text-decoration-none">
                 <div class="sidebar-logo">
-                    <i class="fas fa-plane-departure"></i>
+                    <i class="fas fa-shopping-cart"></i>
                 </div>
-                <span class="ms-2 fs-5 fw-bold text-white">GENIE-TECH</span>
+                <span class="ms-2 fs-5 fw-bold text-white">
+                     GENIE-TECH
+                </span>
             </a>
         </div>
         
@@ -39,7 +41,8 @@ if (session_status() === PHP_SESSION_NONE) {
                 <ul class="nav flex-column">
                     <li class="nav-item">
                         <a href="../produit/index.php" class="nav-link">
-                            <span class="icon"><i class="fas fa-users-cog"></i></span>
+                            
+                        <span class="icon"><i class="fas fa-box-open"></i></span>
                             <span class="title">Produit</span>
                         </a>
                     </li>
@@ -47,7 +50,7 @@ if (session_status() === PHP_SESSION_NONE) {
                         <a href="../commande/index.php" class="nav-link">
                             <span class="icon"><i class="fas fa-calendar-check"></i></span>
                             <span class="title">commande</span>
-                            <span class="badge bg-primary rounded-pill ms-auto">5</span>
+                            <span class="badge bg-primary rounded-pill ms-auto"></span>
                         </a>
                     </li>
                     <li class="nav-item">
